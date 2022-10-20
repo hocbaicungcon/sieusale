@@ -4,6 +4,7 @@ title:  "Thiết quân luật là gì? Quy định về biện pháp thiết qu�
 author: sloth
 categories: [ Kiến thức]
 image: assets/images/luat-quoc-phong-2018-lenh-gioi-nghiem-va-thiet-quan-luat-la-gi-cd691a.jpg
+tags: [quân đội, an ninh]
 ---
 Thiết quân luật là gì? Quy định về biện pháp thiết quân luật, giới nghiêm là như thế nào?
 
