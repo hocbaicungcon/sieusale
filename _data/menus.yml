@@ -10,9 +10,9 @@ topmenu:
 - title: Contact
   url: "contact/"
 
-- title: <a target="_blank" class="nav-link" href="https://youtube.com/dummyfresher"><i class="fa-brands fa-youtube text-danger"></i></a>
-  url: youtube.com/dummyfresher
-  class: "ml-2 btn btn-dark text-white px-3"
+- title: MEGA SALE
+  url: https://youtube.com/dummyfresher
+  class: "ml-2 btn btn-danger text-white px-3"
   external: true
 
 # Footer Menu
