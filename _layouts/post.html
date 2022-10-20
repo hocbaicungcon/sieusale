@@ -54,15 +54,19 @@ post_class: post-template
                 (Updated: <time datetime="{{ page.last_modified_at | date_to_xmlschema }}" itemprop="dateModified">{{ page.last_modified_at | date: "%b %-d, %Y" }}</time>)
                 {% endif %}
                 </small>
-            </p>
-            <!-- Tags -->
-            <div class="mb-4">
-                <span class="taglist">
-                {% for tag in page.tags %}
-                  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/tags.html#{{ tag | downcase }}">{{ tag | downcase }}</a>
-                {% endfor %}
-                </span>
-            </div>
+        </p>
+        <!-- tags -->
+        <div class="after-post-tags">
+                    <ul class="tags">
+                        {% assign sortedCategories = page.tags | sort %}
+                        {% for category in sortedCategories %}
+                        <li>
+                         <a href="{{ site.baseurl }}/categories#{{ category | slugify }}">{{ category }}</a>
+                        </li>
+                        {% endfor %}
+                    </ul>
+                </div>
+        
 			
             
             <!-- Prev/Next -->
