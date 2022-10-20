@@ -40,7 +40,12 @@ gtag('config', '{{site.ganalytics}}');
 
           <a class="navbar-brand text-dark font-weight-bold big d-flex align-items-center" href="{{site.baseurl}}/">
           {% if site.logo %}
-          <img class="mr-2" src="{{site.baseurl}}/{{site.logo}}" alt="logo"> 
+          <a class="d-inline-block social-icon" target="_blank" href="{{site.social.twitter}}">
+              <svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
+              <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
+            </svg> 
+            </a>
+          <!-- <img class="mr-2" src="{{site.baseurl}}/{{site.logo}}" alt="logo">  -->
           {% else %}
           <span class="d-none d-md-inline-block">{{ site.title }}</span>
           {% endif %}
@@ -51,10 +56,18 @@ gtag('config', '{{site.ganalytics}}');
             
             <span class="ml-3 text-muted small">Follow</span>
 
-            <a class="d-inline-block social-icon" target="_blank" href="{{site.social.twitter}}">
-              <svg xmlns="http://www.w3.org/2000/svg" width="19" height="19" fill="currentColor" class="bi bi-twitter" viewBox="0 0 16 16">
-              <path d="M5.026 15c6.038 0 9.341-5.003 9.341-9.334 0-.14 0-.282-.006-.422A6.685 6.685 0 0 0 16 3.542a6.658 6.658 0 0 1-1.889.518 3.301 3.301 0 0 0 1.447-1.817 6.533 6.533 0 0 1-2.087.793A3.286 3.286 0 0 0 7.875 6.03a9.325 9.325 0 0 1-6.767-3.429 3.289 3.289 0 0 0 1.018 4.382A3.323 3.323 0 0 1 .64 6.575v.045a3.288 3.288 0 0 0 2.632 3.218 3.203 3.203 0 0 1-.865.115 3.23 3.23 0 0 1-.614-.057 3.283 3.283 0 0 0 3.067 2.277A6.588 6.588 0 0 1 .78 13.58a6.32 6.32 0 0 1-.78-.045A9.344 9.344 0 0 0 5.026 15z"/>
-            </svg> 
+            <a class="d-inline-block social-icon" target="_blank" href="{{site.social.youtube}}">
+              <svg width="19" height="19" viewBox="0 0 19 19" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <g clip-path="url(#clip0_4_15)">
+              <path d="M18.5802 5.07749C18.4712 4.67594 18.2586 4.30987 17.9636 4.01571C17.6686 3.72156 17.3014 3.50959 16.8987 3.40092C15.4242 3 9.49015 3 9.49015 3C9.49015 3 3.55577 3.01214 2.08134 3.41306C1.67859 3.52174 1.31143 3.73371 1.01641 4.02788C0.721388 4.32205 0.508809 4.68814 0.39984 5.0897C-0.0461408 7.70167 -0.219145 11.6817 0.412086 14.1892C0.521067 14.5907 0.733651 14.9568 1.02867 15.251C1.32369 15.5451 1.69085 15.7571 2.09359 15.8658C3.56802 16.2667 9.50225 16.2667 9.50225 16.2667C9.50225 16.2667 15.4364 16.2667 16.9108 15.8658C17.3135 15.7571 17.6807 15.5451 17.9757 15.251C18.2708 14.9568 18.4834 14.5907 18.5923 14.1892C19.0627 11.5735 19.2077 7.59592 18.5802 5.07749Z" fill="#FF0000"/>
+              <path d="M7.60156 12.4762L12.5243 9.63337L7.60156 6.79053V12.4762Z" fill="white"/>
+              </g>
+              <defs>
+              <clipPath id="clip0_4_15">
+              <rect width="19" height="13.3196" fill="white" transform="translate(0 3)"/>
+              </clipPath>
+              </defs>
+              </svg>
             </a>
             
             <a class="d-inline-block social-icon" target="_blank" href="{{site.social.instagram}}">
