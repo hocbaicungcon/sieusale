@@ -7,7 +7,7 @@ image: assets/images/luat-quoc-phong-2018-lenh-gioi-nghiem-va-thiet-quan-luat-la
 ---
 # Thiết quân luật là gì? Quy định về biện pháp thiết quân luật, giới nghiêm?
 
-![Philippines gia hạn lệnh thiết quân luật tại Mindanao thêm 12 tháng | VTV.VN](/assets/images/philippines-thiet-quan-luat-mindanao-15446818354651556315994.jpg)
+![philippines-thiet-quan-luat-mindanao-15446818354651556315994](/Users/phuongphan/Dev/sieusale/assets/images/philippines-thiet-quan-luat-mindanao-15446818354651556315994-20221020205159281.jpg)
 
 ### Thiết quân luật là gì?
 
