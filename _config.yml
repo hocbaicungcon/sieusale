@@ -1,0 +1,57 @@
+title: "Affiliates"
+email: hocbaicungcon@gmail.com
+timezone: UTC
+baseurl: ""
+permalink: "/:title/"
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+author: sloth
+paginate: 30
+# disqus: 'demowebsite'
+locale: vi
+lang: vi
+feed_items: 10
+feed_update_period: daily
+feed_update_frequency: 1
+markdown: kramdown
+kramdown:
+  syntax_highlighter_opts:
+    disable: true
+sass:
+  sass_dir: _sass
+  style: :compressed
+ganalytics: UA-113961478-1
+
+# Authors
+authors:
+  sloth:
+    name: Sloth
+    display_name: SLoth
+    avatar: 'assets/images/sal.png'
+    email: hocbaicungcon@gmail.com
+    web: https://o2.edu.vn/
+    # twitter: https://twitter.com/wowthemesnet
+    description: "Author of Affiliates, a template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+  nga:
+    name: Nga
+    display_name: Nga
+    avatar: 'assets/images/john.png'
+    email: wowthemesnet@gmail.com
+    web: https://hoc.place
+    # twitter: https://twitter.com/wowthemesnet
+    description: "This is the author box. Write a short description of the author here. You are currently previewing Affiliates theme demo, a Jekyll template compatible with Github pages."
+
+# Social
+social:
+  # instagram: https://www.instagram.com/bootstrapstarter/
+  facebook: https://www.facebook.com/hocbaicungcon
+  # twitter: https://twitter.com/bstartercom
+  youtube: https://youtube.com/dummyfresher
+
+# Plugins
+plugins: 
+- jekyll-paginate
+- jekyll-sitemap
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-archives
