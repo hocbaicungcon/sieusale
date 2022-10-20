@@ -10,7 +10,7 @@ topmenu:
 - title: Contact
   url: "contact/"
 
-- title: MEGA SALE 80%
+- title: SHOPEE SALE 80%
   url: https://shope.ee/1VOIDFMXxP
   class: "ml-2 btn btn-danger text-white px-3"
   external: true
