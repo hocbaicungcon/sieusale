@@ -5,9 +5,9 @@ author: sloth
 categories: [ Kiến thức]
 image: assets/images/luat-quoc-phong-2018-lenh-gioi-nghiem-va-thiet-quan-luat-la-gi-cd691a.jpg
 ---
-# Thiết quân luật là gì? Quy định về biện pháp thiết quân luật, giới nghiêm?
+Thiết quân luật là gì? Quy định về biện pháp thiết quân luật, giới nghiêm là như thế nào?
 
-![philippines-thiet-quan-luat-mindanao-15446818354651556315994](assets/images/philippines-thiet-quan-luat-mindanao-15446818354651556315994-20221020205159281.jpg)
+![philippines-thiet-quan-luat-mindanao-15446818354651556315994](/assets/images/philippines-thiet-quan-luat-mindanao-15446818354651556315994-20221020205159281.jpg)
 
 ### Thiết quân luật là gì?
 
@@ -25,7 +25,7 @@ Theo Điều 21 Luật Quốc phòng 2018 quy định về biện pháp thiết 
 
 - Lệnh thiết quân luật phải xác định cụ thể địa phương cấp tỉnh, cấp huyện, cấp xã, đơn vị hành chính - kinh tế đặc biệt thiết quân luật, biện pháp, hiệu lực thi hành; quy định nhiệm vụ, quyền hạn của cơ quan, tổ chức, cá nhân; 
 
-![Luật Quốc phòng 2018: Lệnh giới nghiêm và Thiết quân luật là gì? - Pháp luật  - Việt Giải Trí](assets/images/luat-quoc-phong-2018-lenh-gioi-nghiem-va-thiet-quan-luat-la-gi-cd691a.jpg)
+![Luật Quốc phòng 2018: Lệnh giới nghiêm và Thiết quân luật là gì? - Pháp luật  - Việt Giải Trí](/assets/images/luat-quoc-phong-2018-lenh-gioi-nghiem-va-thiet-quan-luat-la-gi-cd691a.jpg)
 
 Các quy tắc trật tự xã hội cần thiết ở địa phương thiết quân luật và được công bố liên tục trên các phương tiện thông tin đại chúng.
 
