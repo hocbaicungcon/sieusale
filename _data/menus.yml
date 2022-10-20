@@ -10,8 +10,8 @@ topmenu:
 - title: Contact
   url: "contact/"
 
-- title: Get this theme  
-  url: https://bootstrapstarter.com/template-affiliates-bootstrap-jekyll/
+- title: <a target="_blank" class="nav-link" href="https://youtube.com/dummyfresher"><i class="fa-brands fa-youtube text-danger"></i></a>
+  url: youtube.com/dummyfresher
   class: "ml-2 btn btn-dark text-white px-3"
   external: true
 
