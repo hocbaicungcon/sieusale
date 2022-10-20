@@ -18,7 +18,7 @@ Global Ban là hình phạt được Riot Games ban hành có hiệu lực toàn
 
 **Zeros bị ban vĩnh viễn** giải VCS vì có phát ngôn gây "sốc" cực kỳ ngu ngốc, không chỉ khiến cộng đồng phẫn nộ mà còn gây ảnh hưởng đến người khác. 
 
-![Zeros bị cấm thi đấu vĩnh viễn tại VCS bởi vì phát ngôn gây sốc trên  livestream](assets/images/zeros-bi-cam-vinh-vien-khoi-vcs_vtth.png)
+![Zeros bị cấm thi đấu vĩnh viễn tại VCS bởi vì phát ngôn gây sốc trên  livestream](/assets/images/zeros-bi-cam-vinh-vien-khoi-vcs_vtth.png)
 
 Vậy Zeros nói gì mà bị ban? Zenos đã nói rằng: 
 
@@ -34,7 +34,7 @@ Son nói: “Riot Games đã ban cho Zeros một lệnh cấm toàn cầu và n�
 
 Zeros cũng sẽ không được phép thi đấu chuyên nghiệp trong các trò chơi khác của Riot, bao gồm trò chơi bắn súng anh hùng miễn phí chơi miễn phí Valorant hoặc trò chơi thẻ bài thu thập Legends of Runeterra.
 
-![SỐC - ZEROS BỊ BAN VĨNH VIỄN KHỎI VCS. SỰ NGHIỆP CHẤM DỨT TỪ ĐÂY?](assets/images/zeros-bi-ban-vinh-vien.jpg)
+![SỐC - ZEROS BỊ BAN VĨNH VIỄN KHỎI VCS. SỰ NGHIỆP CHẤM DỨT TỪ ĐÂY?](/assets/images/zeros-bi-ban-vinh-vien.jpg)
 
 Đây là một trong những hình phạt nặng nhất mà Riot Games dành cho một game thủ chuyên nghiệp.
 
