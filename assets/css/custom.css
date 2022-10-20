@@ -4,3 +4,6 @@ Just customize your theme here.
 ================================================== */
 
 body {}
+.navbar {    
+     padding: .1rem .1rem; 
+}
