@@ -11,8 +11,6 @@ $blue:    #3d61fd !default;
 // @import url('https://fonts.googleapis.com/css2?family=PT+Sans:wght@400;700&display=swap');
 // @import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap');
 
-@import url('https://fonts.googleapis.com/css2?family=Charmonman&display=swap');
-
 /* add additional CSS rules below */
 html {
     scroll-behavior: smooth;
@@ -29,9 +27,9 @@ body {
     padding-top:116px;
     
 }
-.serif-font {
-    font-family: 'Charmonman', cursive;
-}
+// .serif-font {
+//     font-family: 'Charmonman', cursive;
+// }
 @media (max-width: 1366px) {
     .container-xl, .container-lg, .container-md, .container-sm, .container {
         width:90%;
