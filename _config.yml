@@ -3,7 +3,7 @@ email: hocbaicungcon@gmail.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
-logo: 'assets/images/logo.png'
+logo: 'assets/images/sieusale_logo.svg'
 favicon: 'assets/images/logo.svg'
 author: sloth
 paginate: 30
