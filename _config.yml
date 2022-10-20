@@ -4,7 +4,7 @@ timezone: UTC
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
-favicon: 'assets/images/favicon.ico'
+favicon: 'assets/images/logo.svg'
 author: sloth
 paginate: 30
 # disqus: 'demowebsite'
@@ -27,7 +27,7 @@ authors:
   sloth:
     name: Sloth
     display_name: SLoth
-    avatar: 'assets/images/sal.png'
+    avatar: 'assets/images/sloth.webp'
     email: hocbaicungcon@gmail.com
     web: https://o2.edu.vn/
     # twitter: https://twitter.com/wowthemesnet
