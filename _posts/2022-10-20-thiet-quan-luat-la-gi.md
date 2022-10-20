@@ -7,7 +7,7 @@ image: assets/images/luat-quoc-phong-2018-lenh-gioi-nghiem-va-thiet-quan-luat-la
 ---
 Thiết quân luật là gì? Quy định về biện pháp thiết quân luật, giới nghiêm là như thế nào?
 
-![philippines-thiet-quan-luat-mindanao-15446818354651556315994](/assets/images/philippines-thiet-quan-luat-mindanao-15446818354651556315994-20221020205159281.jpg)
+![philippines-thiet-quan-luat-mindanao-15446818354651556315994](/assets/images/philippines-thiet-quan-luat-mindanao-15446818354651556315994.jpg)
 
 ### Thiết quân luật là gì?
 
