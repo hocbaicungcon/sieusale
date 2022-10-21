@@ -2,7 +2,7 @@
 layout: post
 title:  "Global ban là gì?"
 author: sloth
-categories: [ Kiến thức, Game]
+categories: [ News, Game]
 image: assets/images/zeros-bi-ban-vinh-vien.jpg
 tags: [Zeros, Riot]
 ---

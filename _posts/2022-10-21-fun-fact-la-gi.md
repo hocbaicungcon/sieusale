@@ -2,7 +2,7 @@
 layout: post
 title:  "Fun fact là gì?"
 author: sloth
-categories: [ Kiến thức]
+categories: [News, Tiktok]
 image: assets/images/fun-facts-kham-pha-mot-so-dieu-co-the-ban-chua-biet-42855.jpg
 tags: [fact, fun]
 ---

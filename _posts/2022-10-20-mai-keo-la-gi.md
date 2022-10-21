@@ -2,7 +2,7 @@
 layout: post
 title:  "Mãi keo là gì?"
 author: sloth
-categories: [ Kiến thức, Game]
+categories: [ News, Tiktok, Facebook]
 image: assets/images/tinh-ban-la-gi.jpg 
 tags: [Tiktok, Facebook]
 ---

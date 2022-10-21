@@ -2,7 +2,7 @@
 layout: post
 title:  "Camcorder là gì?"
 author: sloth
-categories: [ Kiến thức, Máy Ảnh, Máy Quay]
+categories: [ News, Camera]
 image: assets/images/482a6ef23ab37cfef824c6b3c60ddbf7.png
 tags: [máy ảnh]
 ---
