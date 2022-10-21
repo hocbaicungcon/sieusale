@@ -3,8 +3,9 @@ title: "Categories"
 layout: default
 permalink: "/categories.html"
 ---
-<!-- {% for category in site.categories %}
-<h4 class="mt-5 mb-4 pb-2 border-bottom" id="{{ category[0] | replace: " ","-" }}"><span class="text-capitalize small font-weight-bold">In "{{ category[0] }}"</span></h4>
+{% for category in site.categories %}
+<!-- <h4 class="mt-5 mb-4 pb-2 border-bottom" id="{{ category[0] | replace: " ","-" }}"><span class="text-capitalize small font-weight-bold">In "{{ category[0] }}"</span></h4> -->
+<h4 class="mt-5 mb-4 pb-2 border-bottom" id="{{ category[0]}}"><span class="text-capitalize small font-weight-bold">In "{{ category[0] }}"</span></h4>
 <div class="row">
 {% assign pages_list = category[1] %}
 {% for post in pages_list %}
@@ -20,34 +21,3 @@ permalink: "/categories.html"
 {% assign group = nil %}
 </div>
 {% endfor %}
- -->
- {%- if site.posts.size > 0 -%}
-
-  {%- include functions.html func='log' level='debug' msg='Get value' -%}
-  {%- include functions.html func='get_categories' -%}
-  {% assign categories = return %}
-
-  {% assign keys = categories %}
-  {% assign field = 'categories' %}
-{%- if include.keys -%}
-  {%- assign keys = include.keys -%}
-{%- endif -%}
-
-{%- if include.field -%}
-  {%- assign field = include.field -%}
-{%- endif -%}
-
-<div class="page-segments">
-  <ul class="page-segments-list">
-    {% for key in keys %}
-    <h2 id="{{ key }}" class="segment-name">{{ key }}</h2>
-      {% assign items = site.posts | where: field, key %}
-      {% for item in items %}
-        {% if item != nil %}
-        <li> {% include views/post-item.html %} </li>
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-  </ul>
-</div>
-{%- endif -%}
