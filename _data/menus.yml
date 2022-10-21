@@ -1,14 +1,14 @@
 # Top Menu
 topmenu:
 
-- title: Home
+- title: Trang chủ
   url: ""
 
-- title: About
-  url: "about/"
+- title: Khuyến mãi
+  url: "https://sieusale.day/categories/#sale"
 
-- title: Contact
-  url: "contact/"
+- title: Tin tức
+  url: "https://sieusale.day/categories/#ki%E1%BA%BFn-th%E1%BB%A9c"
 
 - title: SHOPEE SALE 80%
   url: https://shope.ee/1VOIDFMXxP
@@ -18,15 +18,16 @@ topmenu:
 # Footer Menu
 footermenu:
 
-- title: Home
+- title: Trang chủ
   url: ""
 
-- title: Privacy Policy
-  url: "privacy-policy/"
+- title: Khuyến mãi
+  url: "https://sieusale.day/categories/#sale"
 
-- title: Contact
-  url: "contact/"
+- title: Tin tức
+  url: "https://sieusale.day/categories/#ki%E1%BA%BFn-th%E1%BB%A9c"
 
-- title: Download
+- title: SHOPEE SALE 80%
   url: https://shope.ee/1VOIDFMXxP
+  class: "ml-2 btn btn-danger text-white px-3"
   external: true
