@@ -5,10 +5,10 @@ topmenu:
   url: ""
 
 - title: Khuyến mãi
-  url: "https://sieusale.day/categories/#sale"
+  url: "categories/#sale"
 
 - title: Tin tức
-  url: "https://sieusale.day/categories/#ki%E1%BA%BFn-th%E1%BB%A9c"
+  url: "categories/#ki%E1%BA%BFn-th%E1%BB%A9c"
 
 - title: SHOPEE SALE 80%
   url: https://shope.ee/1VOIDFMXxP
@@ -22,10 +22,10 @@ footermenu:
   url: ""
 
 - title: Khuyến mãi
-  url: "https://sieusale.day/categories/#sale"
+  url: "categories/#sale"
 
 - title: Tin tức
-  url: "https://sieusale.day/categories/#ki%E1%BA%BFn-th%E1%BB%A9c"
+  url: "categories/#ki%E1%BA%BFn-th%E1%BB%A9c"
 
 - title: SHOPEE SALE 80%
   url: https://shope.ee/1VOIDFMXxP
