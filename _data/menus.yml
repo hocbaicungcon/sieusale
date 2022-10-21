@@ -4,11 +4,11 @@ topmenu:
 - title: Trang chủ
   url: ""
 
+- title: Tin tức
+  url: "categories/#news"  
+
 - title: Khuyến mãi
   url: "categories/#sale"
-
-- title: Tin tức
-  url: "categories/#ki%E1%BA%BFn-th%E1%BB%A9c"
 
 - title: SHOPEE SALE 80%
   url: https://shope.ee/1VOIDFMXxP
@@ -21,11 +21,11 @@ footermenu:
 - title: Trang chủ
   url: ""
 
+- title: Tin tức
+  url: "categories/#news"  
+
 - title: Khuyến mãi
   url: "categories/#sale"
-
-- title: Tin tức
-  url: "categories/#ki%E1%BA%BFn-th%E1%BB%A9c"
 
 - title: SHOPEE SALE 80%
   url: https://shope.ee/1VOIDFMXxP
