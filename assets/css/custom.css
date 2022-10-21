@@ -24,3 +24,9 @@ Just customize your theme here.
     -webkit-transition: all 0.3s ease-out;
     transition: all 0.3s ease-out;
 }
+
+
+img {
+    margin: auto;
+    display: block;    
+}
