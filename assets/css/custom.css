@@ -33,6 +33,7 @@ img {
 }
 
 
-.ml-2 btn .btn-danger .text-white .px-3 {
-    background: #F24E1E;
+.btn-danger {
+    background-color: #F24E1E;
+    border-color: #F24E1E;;
 }
