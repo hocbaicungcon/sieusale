@@ -31,3 +31,8 @@ img {
     margin: auto;
     display: block;    
 }
+
+
+.ml-2 btn .btn-danger .text-white .px-3 {
+    background: #F24E1E;
+}
